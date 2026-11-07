@@ -20,7 +20,7 @@ Saya merasa senang bisa mengikuti kegiatan ini bersama kelompok Crazy Taxi. Semo
 
 ### Foto 1 – Git Setup
 
-![Foto Git Setup](<gambar/Gambar WhatsApp 2026-11-07 pukul 22.37.56.jpeg>)
+![Foto Git Setup](</image/WhatsApp%20Image%202026-11-07%20at%2022.37.56.jpeg>)
 
 ### Foto 2 – Pembelajaran MBKM dan MSIB
 

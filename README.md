@@ -16,9 +16,8 @@ Selain mendapatkan ilmu baru, kegiatan ini juga mengajarkan saya pentingnya kerj
 Saya merasa senang bisa mengikuti kegiatan ini bersama kelompok Crazy Taxi. Semoga pada workshop berikutnya saya bisa mendapatkan lebih banyak pengalaman dan meningkatkan kemampuan dalam mengerjakan proyek.
 
 ## Dokumentasi Foto Kegiatan
-## Dokumentasi Foto Kegiatan
 
-### Foto 1 – Git Setup
+### Foto 1 – Pembalajaran Git setup
 
 ![Foto Git Setup](</image/WhatsApp%20Image%202026-11-07%20at%2022.37.56.jpeg>)
 

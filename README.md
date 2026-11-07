@@ -16,15 +16,21 @@ Selain mendapatkan ilmu baru, kegiatan ini juga mengajarkan saya pentingnya kerj
 Saya merasa senang bisa mengikuti kegiatan ini bersama kelompok Crazy Taxi. Semoga pada workshop berikutnya saya bisa mendapatkan lebih banyak pengalaman dan meningkatkan kemampuan dalam mengerjakan proyek.
 
 ## Dokumentasi Foto Kegiatan
+## Dokumentasi Foto Kegiatan
 
 ### Foto 1 – Git Setup
-![Foto Git Setup](gambar/WhatsApp%20Image%202026-11-07%20at%2022.37.56.jpeg)
+
+![Foto Git Setup](<gambar/Gambar WhatsApp 2026-11-07 pukul 22.37.56.jpeg>)
 
 ### Foto 2 – Pembelajaran MBKM dan MSIB
-![Foto Pembelajaran](gambar/WhatsApp%20Image%202026-11-07%20at%2022.37.57%20(1).jpeg)
+
+![Foto Pembelajaran](<gambar/Gambar WhatsApp 2026-11-07 pukul 22.37.57 (1).jpeg>)
 
 ### Foto 3 – Kegiatan Bersama Kelompok Crazy Taxi
-![Foto Bersama Kelompok](gambar/WhatsApp%20Image%202026-11-07%20at%2022.37.57%20(2).jpeg)
+
+![Foto Bersama Kelompok](<gambar/Gambar WhatsApp 2026-11-07 pukul 22.37.57 (2).jpeg>)
+
+
 ## Kesimpulan
 
 Kegiatan Lokakarya Proyek Hari 1 memberikan pengalaman yang berharga bagi saya. Saya berharap ilmu yang didapatkan bisa bermanfaat dan diterapkan dalam kegiatan proyek selanjutnya.

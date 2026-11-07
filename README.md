@@ -20,13 +20,11 @@ Saya merasa senang bisa mengikuti kegiatan ini bersama kelompok Crazy Taxi. Semo
 Berikut merupakan dokumentasi foto selama mengikuti kegiatan Lokakarya Proyek Hari 1.
 
 ### Foto 1 – Kegiatan Workshop
-![Foto Kegiatan 1](../Foto_Kegiatan/foto1.jpg)
-
+![Foto kegiatan](./WhatsApp%20Image%202026-11-07%20at%2022.37.57.jpeg)
 ### Foto 2 – Dokumentasi Pembelajaran
-![Foto Kegiatan 2](../Foto_Kegiatan/foto2.jpg)
-
+![Foto kegiatan](./WhatsApp%20Image%202026-11-07%20at%2022.37.56.jpeg)
 ### Foto 3 – Kegiatan Bersama Kelompok Crazy Taxi
-![Foto Kegiatan 3](./WhatsApp%20Image%202026-11-07%20at%2022.37.56.jpeg)
+![Foto kegiatan](./WhatsApp%20Image%202026-11-07%20at%2022.37.57.jpeg)
 
 *Catatan: Foto-foto di atas merupakan tempat untuk memasukkan dokumentasi asli kegiatan workshop.*
 
